@@ -1,1 +1,0 @@
-c:\Users\mrjam\OneDrive\Pictures\Capture.PNG
