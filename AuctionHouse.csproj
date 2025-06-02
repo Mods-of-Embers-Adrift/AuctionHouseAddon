@@ -92,6 +92,8 @@
     <Compile Include="AuctionHouse.cs" />
     <Compile Include="AuctionHouseContextPinMod.cs" />
     <Compile Include="AuctionHousePinnedColumnMod.cs" />
+    <Compile Include="AuctionHouseUISortPatch.cs" />
+    <Compile Include="MaterialCheckBoxMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
