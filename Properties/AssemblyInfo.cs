@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: MelonInfo(typeof(AuctionHouseCheckboxMod), "Auction House Checkbox Mod", "1.0.0", "MrJambix")]
+[assembly: MelonInfo(typeof(AuctionHouseCheckboxMod), "Auction House Checkbox Mod", "1.1.1", "MrJambix")]
 [assembly: MelonGame("Stormhaven Studios", "Embers Adrift")]
 
 [assembly: AssemblyTitle("AuctionHouse")]
